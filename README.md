@@ -51,7 +51,7 @@ Como Executar o Código
 
 1️⃣ Clonar o Repositório
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Isabelrs02/tarefa_pwm.git
 cd nome-do-repositorio
 
 2️⃣ Compilar o Código (Usando o Pico SDK)
